@@ -1,0 +1,31 @@
+int Resultados;
+
+int main() {
+int base;
+int altura;
+int area;
+int j;
+
+cout<<"Ingresa la base:"<<endl;
+cin>>base;
+cout<<"Ingresa latura :"<<endl;
+cin>>altura;
+area=base*altura;
+cout<<"Area es: "<<area<<endl;
+
+cout<<"FOR"<<endl;
+cout<<"Incremento"<<endl;
+for(j = 1; j < 10; j+-) {
+   cout<<"Aumento"<<j<<endl;
+}
+cout<<"Decremento"<<endl;
+for(int k = 10; k > 0; k--) {
+   cout<<"Bajo"<<k<<endl;
+}
+}
+
+Resultados:
+
+
+Resultados:
+
